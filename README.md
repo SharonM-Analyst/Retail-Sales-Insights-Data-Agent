@@ -1,6 +1,6 @@
 # 🛍️ Retail Sales Data Agent
 
-> A working Data Agent built on **Databricks AI/BI** that lets any business user ask plain-English questions about retail sales performance and receive clear, data-backed answers — no SQL required.
+> A working Data Agent built on **Databricks AI/BI** that lets any business user ask plain-English questions about retail sales performance and receive clear, data-backed answers no SQL required.
 
 ## Objective
 
@@ -58,7 +58,7 @@ The dataset was registered as a named Delta table — **retail_sales_data** — 
 A new Data Agent was created inside Databricks AI/BI and named **Retail Sales Insights Agent**. The retail_sales_data table was connected as the data source. A connectivity test confirmed the agent could query the table before instructions were added.
 
 ### Step 5 · Write the Agent Instructions
-The agent instructions were written from scratch following the BrightLearn 8-section framework. They cover role, dataset rules, supported question types, response structure, trend rules, data quality, ambiguity handling, and recommendation guidelines. Full instructions are in `agent_instructions.txt` and `docs/Agent_Instructions.docx`.
+The agent instructions were written from scratch following the BrightLearn 8-section framework. They cover role, dataset rules, supported question types, response structure, trend rules, data quality, ambiguity handling, and recommendation guidelines. 
 
 ### Step 6 · Test with 10 Questions
 Ten original business questions were asked covering total revenue, category performance, gender patterns, age-group behaviour, spend tiers, seasonal trends, and an intentionally ambiguous question to test clarification behaviour.
@@ -66,16 +66,6 @@ Ten original business questions were asked covering total revenue, category perf
 ### Step 7 · Validate 3 Answers
 Three answers were independently checked against the source data using direct SQL aggregations and manual table filtering in Databricks. Verdicts (correct / partially correct / incorrect) are documented in the write-up.
 
-### Step 8 · Write-Up Document
-A full Word document was compiled covering all steps, the agent instructions in full, all 10 questions and answers, 3 validations, key insights, business recommendations, and a conclusion.
-
-### Step 9 · Push to GitHub
-All project files were pushed to this public GitHub repository.
-
-### Step 10 · Submit via BrightLearn Portal
-The repository link was submitted via the BrightLearn Portal before the 24 May 2026 deadline.
-
----
 
 ## Agent Instructions
 
