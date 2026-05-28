@@ -113,28 +113,75 @@ The full instructions are in `agent_instructions.txt`. A summary of each section
 
 ## ✅ Key Insights
 
-> Replace with your actual findings once the agent has been tested.
+#### Sales Performance
 
-1. **Top category** — [Category name] generated the highest total revenue at R [amount], accounting for [x]% of all sales.
-2. **Strongest period** — [Month/Season] was the strongest sales period with R [amount] in revenue.
-3. **Gender patterns** — [Male/Female] customers have a higher average transaction value at R [amount] vs R [amount].
-4. **Age group** — The [x–x] age group contributes the most total revenue at R [amount] ([x]% of total).
-5. **Spend tiers** — High spenders (R500+) represent [x]% of transactions but account for [x]% of total revenue.
+•	Q4 and Q2 together account for 55% of annual revenue — plan promotions and inventory peaks around these windows.
+•	September is a structural low; targeted campaigns are needed to defend this month.
+•	Saturday is the highest-value shopping day by AOV — weekend offers should be premium-positioned.
 
----
+####  Product Category
+•	No single category dominates year-round — all three require separate seasonal planning cycles.
+•	Beauty achieves the highest AOV despite the lowest transaction count, signalling quality-conscious buyers worth nurturing.
+•	Clothings volume leadership (894 units) with lower AOV suggests a high-frequency, lower-basket segment suited to loyalty incentives.
 
-## 💡 Business Recommendations
+#### Customer Behaviour
+•	No single age group consistently dominates — the top three (45-54, 25-34, 35-44) are within 0.4% of each other, creating a diversified customer base.
+•	18-24 buyers spend significantly per order but transact infrequently — activation campaigns could unlock substantial value.
+•	Seniors are a hidden weekend opportunity with the highest weekend AOV of any age group.
+•	The 25-44 female segment shows the strongest gender revenue lead — a prime target for female-focused campaigns.
 
-> Replace with your actual recommendations based on your agent's findings.
+#### Spending Tier
+•	The business is structurally dependent on High Spenders (85% of revenue from 35% of customers) — this is both a strength and a concentration risk.
+•	The September collapse among High Spenders (–63%) is the single most critical event in the data and demands an active retention or engagement strategy.
+•	Medium Spenders represent the most accessible upsell opportunity — converting even 20% of this group to High Spender thresholds would add approximately R10,000 in revenue.
 
-1. **Prioritise the top category** in promotional and stock planning — particularly heading into peak season.
-2. **Create a retention offer for high spenders** — they drive a disproportionate share of revenue despite being a smaller customer group.
-3. **Target under-represented age groups** with category-specific promotions to broaden the revenue base.
-4. **Review the lowest-performing category** — consider repricing, bundling, or repositioning to recover underperforming revenue.
+#### Cross Analysi
+•	Three age groups (18-24, 25-34, and 45-54) deviate from the overall Electronics-first ranking, highlighting generational differences.
+•	Young and Mature Adults Favor Beauty, possibly for different reasons like cosmetics for youth and premium wellness for older customers.
+•	The 25-34 segment’s strong Clothing preference signals a prime target for fashion-focused marketing.
+•	Seniors prioritize Electronics significantly more, suggesting a focus on technology rather than personal care.
+•	These insights emphasize the need for age-specific marketing and inventory strategies rather than a one-size-fits-all approach based on overall category trends.
 
----
 
-## 📝 Validation Summary
+## Business Recommendations
+
+1.	Protect High Spenders with a VIP programme
+They drive 85% of revenue but experienced a 63% September collapse. Launch a tiered VIP programme offering exclusive early access, personalised service, and a September reactivation campaign (targeted email, bonus rewards) to defend this critical group.
+
+2.	Build a September-specific campaign across all segments
+September is the weakest month by revenue (R23,620) and the worst month for High Spenders. This seasonal disengagement event needs to be countered with a time-limited promotion, flash sale, or loyalty bonus running throughout September.
+
+3.	Create age-segmented category marketing
+Three of five age groups deviate from the overall category ranking. Run Beauty-first campaigns for 18-24 and 45-54 groups; fashion-led campaigns for 25-34; technology-led campaigns for 35-44 and 55-64. One-size messaging leaves revenue on the table.
+
+4.	Upsell Medium Spenders to the High Spender tier
+Medium Spenders (R100-R499) represent 30% of transactions but only 11% of revenue. A targeted upgrade nudge
+•	Free shipping over R500, bundle discount at checkout, or loyalty point acceleration above R500 
+5.	Activate the 18-24 segment with frequency incentives
+Young Adults have the highest AOV in the dataset (R501) but the lowest transaction volume. They are high value when they shop. A subscription model, early-access privilege, or birthday campaign would increase their purchase frequency without discounting their basket size.
+
+6.	Launch a senior’s weekend programme
+55-64 Seniors have the highest weekend AOV of any age group (R561) and spend 45% more on weekends than weekdays. A dedicated weekend promotion, weekend-only bundle, or in-store experience designed for this group would amplify their natural behaviour.
+
+7.	Deploy gender-specific campaigns by age band
+Female-focused marketing is most effective for ages 25-44 (females lead by up to 9.4%). Male-focused campaigns are better suited to 18-24 and 45-54 groups. Gender-neutral messaging is optimal for 55-64 (only 0.4% gap). Align creative assets and targeting to these patterns.
+
+8.	Invest on Saturday as a premium shopping event
+Saturday has the highest AOV (R525) and highest total revenue (R78,815) of any day. Position Saturday as a premium in-store or online experience.
+•	Exclusive Saturday drops.
+•	weekend-only bundles.
+•	highlighted collections.
+
+9.	Align inventory and promotions to category seasonality
+Electronics peaks in Summer and Winter; Clothing peaks in Autumn and Spring; Beauty is relatively stable with a Mature Adults peak. Stock planning, markdown timing, and promotional budgets should reflect these cycles rather than treating all three categories identically.
+
+10.	Investigate and monetise male Beauty buyers
+Male customers in Beauty have an AOV of R487 the highest of any gender-category pair despite lower transaction frequency. This signals a high-intent, under-served segment. 
+•	A targeted male grooming or wellness sub-range with direct marketing could significantly grow Beauty revenue.
+•	Introduce new products that will attract female, trending make up lines and hire influencers who have big numbers on TikTok, Instagram, YouTube to promote the products
+
+
+## Validation Summary
 
 | # | Question Validated | Method Used | Verdict |
 |---|-------------------|-------------|---------|
