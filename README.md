@@ -2,6 +2,17 @@
 
 > A working Data Agent built on **Databricks AI/BI** that lets any business user ask plain-English questions about retail sales performance and receive clear, data-backed answers no SQL required.
 
+
+![ML Workflow](https://github.com/SharonM-Analyst/Bank-Fraud-Detection/blob/6e7b483b5b061be774355510f4398485a6e5ae79/0.%20ELT%20Pipeline/1.%20Architecture/Untitled%20Diagram.gif)
+
+
+
+
+
+
+
+
+
 ## Objective
 
 Build a Retail Sales Data Agent on Databricks using a provided retail transactions dataset. The agent helps a store manager, business owner, or executive ask questions about shop performance and receive useful business insights in plain language, backed by real data.
